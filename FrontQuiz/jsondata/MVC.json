@@ -1,0 +1,27 @@
+﻿[
+		{
+		    "question":"What does MVC stand for?",
+		    "options": ["Model-ViewModel-Controller", "Maintain-Visual-Contact", "Model-View-Controller", "Microsoft-Virtually-Comatose"],
+		    "answer": 2
+		},
+		{
+		    "question": "Does MVC use a Page Lifecylce?",
+		    "options": ["Yes", "No", "Sometimes"],
+		    "answer": 0
+		},
+		{
+		    "question": "Which was the first country to issue paper currency?",
+		    "options": ["USA", "France", "Italy", "China"],
+		    "answer": 3
+		},
+		{
+		    "question": "Which city hosted the 1996 Summer Olympics?",
+		    "options": ["Atlanta", "Sydney", "Athens", "Beijing"],
+		    "answer": 0
+		},
+		{
+		    "question": "Who invented telephone?",
+		    "options": ["Albert Einstein", "Alexander Graham Bell", "Isaac Newton", "Marie Curie"],
+		    "answer": 1
+		}
+    ]

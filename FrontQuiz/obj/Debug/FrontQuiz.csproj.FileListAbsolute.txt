@@ -1,0 +1,6 @@
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\bin\FrontQuiz.dll.config
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\bin\FrontQuiz.dll
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\bin\FrontQuiz.pdb
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\obj\Debug\FrontQuiz.csprojResolveAssemblyReference.cache
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\obj\Debug\FrontQuiz.dll
+c:\users\perron\documents\visual studio 2013\Projects\FrontQuiz\FrontQuiz\obj\Debug\FrontQuiz.pdb
